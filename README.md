@@ -1,5 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository
 <br>
-Author -muhammad(zubair )
-hi
+Author - muhammad (zubair )
